@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />  
 <img src="https://img.shields.io/badge/FPDF-%23FFB6C1.svg?style=for-the-badge" alt="FPDF" />  
 <img src="https://img.shields.io/badge/PHPMailer-FFCC00?style=for-the-badge" alt="PHPMailer" />  
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />  
 
 ### CMS  
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />  
