@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[PON_AQUI_TU_LINK_DIRECTO_DE_IMGUR](https://imgur.com/a/Mqo8Apo)" alt="Tustas Banner"/>
+  <img src="https://i.imgur.com/Q7YpOwF.png" alt="Tustas Banner"/>
 </p>
 
 # ¡Hola! Soy Carlos Rosales (Tustas) 👋
@@ -89,9 +89,9 @@ Actualmente trabajo con tecnologías backend y frontend modernas, desarrollando 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TustasCR&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TustasCR&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TustasCR&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TustasCR&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
