@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/UrPiiIW" alt="Tustas Banner"/>
+  <img src="https://i.imgur.com/UrPiiIW.png" alt="Tustas Banner"/>
 </p>
 
 # ¡Hola! Soy Carlos Rosales (Tustas) 👋
